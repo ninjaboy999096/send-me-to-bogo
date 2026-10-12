@@ -2,3 +2,7 @@
 body {
   background-color: coral;
 }
+p {
+  border-style: solid;
+  border-color: Aquamarine;
+}
