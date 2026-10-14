@@ -1,3 +1,3 @@
 function hollowween() {
-  document.getElementById("body").style.color = "white";
+  document.body.style.backgroundColor = "white";
 }
