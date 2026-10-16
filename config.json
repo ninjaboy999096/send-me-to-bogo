@@ -1,0 +1,3 @@
+{
+    "packages":["websockets","pyodide-http","pyodide.http"]
+}
