@@ -1,4 +1,5 @@
 <p>there was a suspicious request, this may be caused by: bots, scrapers, ai agents, hackers, bored people</p>
+<script>let params = new URLSearchParams(document.location.search);</script>
 <script>let error = params.get("error")</script>
 <p>if this was a mistake please tell me! (make sure to include the error code and include what your doing) error code: <p id="errortext">please wait for it to load. if it never loads tell me that too</p></p>
 <script>document.getElementById("errortext").innerHTML = error;</script>
